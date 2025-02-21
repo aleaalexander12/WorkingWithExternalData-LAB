@@ -35,7 +35,7 @@
 // / API Key and Default Setup
 import * as Carousel from "./carousel.js";
 // import axios from "axios";
-const API_KEY = "live_fNLd6EHXHSKibQPtMJo9ktM1OjTPmXPKhJgrqQ";
+const API_KEY = "live_fNLd6EHXHSKibQPtMJo9ktM1OjTPmXPKhJgrqQlive_sVD4yxw2AP4Wgrikgf5BpoEXu9jKb7K0EfSjee7Vzb89RAOLUs7czsSg61PxwbvZ";
 // Configure Axios Defaults
 axios.defaults.headers.common['x-api-key'] = API_KEY;
 axios.defaults.baseURL = "https://api.thecatapi.com/v1";
